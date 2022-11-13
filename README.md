@@ -1,4 +1,7 @@
 # speed-dating
+
+Explanatory video : https://share.vidyard.com/watch/DNqQxiUp6KLHYD2qzo9qJB?
+
 Speed-dating Kaggle project
 
 About Dataset
